@@ -4,6 +4,6 @@ The turtlesim simulator provides a simple graphical environment in which a turtl
 
 In this project, it has been written a Node that with the help of this simulator (turtlesim) the turtle moves on the path and draws Iran maps on the screen based on the path.
 
-It has been uploaded the simulation result.
+It has been uploaded the simulation result as Iran map.wmv
 
 
